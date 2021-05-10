@@ -30,7 +30,7 @@
 
 						<div class="navbar-dropdown">
 							<a class="navbar-item" href="AgregarConsolaController.do"> Registrar </a> 
-							<a class="navbar-item">
+							<a class="navbar-item" href="VerConsolaController.do">
 								Ver </a> 
 						</div>
 					</div>
